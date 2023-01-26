@@ -1,0 +1,21 @@
+{
+  "name": "parliament-v13-uptime",
+  "version": "1.0.0",
+  "description": "Parliament Developer Uptime",
+  "main": "parliament.js",
+  "scripts": {
+    "start": "node parliament.js"
+  },
+  "author": "Gweep Creative",
+  "license": "ISC",
+  "homepage": "https://github.com/Androz2091/giveaways-bot#readme",
+  "dependencies": {
+    "discord-sync-commands": "^0.3.0",
+    "discord.js": "^13.12.0",
+    "mongoose": "^6.2.3"
+  },
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  }
+}
